@@ -29,7 +29,7 @@ The system consists of two main components:
 
 | Home Screen | Feeding Control | Schedule Setup |
 |-------------|-----------------|----------------|
-| ![Home](docs/images/app-screenshots/homepage.png) | ![Control](docs/images/app-screenshots/schedule.png) | ![History](docs/images/app-screenshots/history.png) |
+| ![Home](docs/app-screenshots/homepage.png) | ![Control](docs/app-screenshots/schedule.png) | ![History](docs/app-screenshots/history.png) |
 
 
 ## 📖 Usage
