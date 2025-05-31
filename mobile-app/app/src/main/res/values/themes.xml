@@ -1,7 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-
     <!-- Base application theme. -->
-    <style name="Theme.PetFeeder" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    <style name="Theme.PetPider" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
@@ -11,22 +10,21 @@
         <item name="colorSecondaryVariant">@color/teal_700</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-        <item name="android:windowLightStatusBar">true</item>
     </style>
 
-     <style name="Theme.PetFeeder.MainApp" parent="Theme.AppCompat.Light.DarkActionBar">
-         <!-- Action bar color. -->
-         <item name="colorPrimary">@color/primary_blue</item>
-         <item name="colorPrimaryVariant">@color/primary_blue_darker</item>
-         <item name="colorOnPrimary">@color/white</item>
-         <!-- Status bar color. -->
-         <item name="android:statusBarColor">@color/primary_blue</item>
+    <style name="Theme.PetFeeder.MainApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Action bar color. -->
+        <item name="colorPrimary">@color/primary_blue</item>
+        <item name="colorPrimaryVariant">@color/primary_blue_darker</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/primary_blue</item>
     </style>
 
     <style name="Theme.PetFeeder.Picker" parent="Theme.AppCompat.Light.NoActionBar" >
-        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorPrimary">@color/white</item>
         <item name="colorControlNormal">@color/gray</item>
     </style>
 

@@ -1,33 +1,34 @@
 {
   "project_info": {
-    "project_number": "365635879345",
-    "project_id": "petfeeder-71649",
-    "storage_bucket": "petfeeder-71649.appspot.com"
+    "project_number": "330849635919",
+    "firebase_url": "https://esp32-fb-ea54c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-fb-ea54c",
+    "storage_bucket": "esp32-fb-ea54c.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:365635879345:android:25c7e47540a966f2363d90",
+        "mobilesdk_app_id": "1:330849635919:android:926ca413b850d00556a43a",
         "android_client_info": {
-          "package_name": "com.damskuy.petfeedermobileapp"
+          "package_name": "com.example.petpider"
         }
       },
       "oauth_client": [
         {
-          "client_id": "365635879345-fcrtp9n1salv49hchtf7lfs7ndbf1ko7.apps.googleusercontent.com",
+          "client_id": "330849635919-s6c5vjvti6eh18t5qs7qat7j1ipffska.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyClf_ogB9dMM1WzXXChGH7ePWFlL486rxk"
+          "current_key": "AIzaSyA9BhysyJl0Gcp4erx2V_4Ldh25nZmHWTw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "365635879345-fcrtp9n1salv49hchtf7lfs7ndbf1ko7.apps.googleusercontent.com",
+              "client_id": "330849635919-s6c5vjvti6eh18t5qs7qat7j1ipffska.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
